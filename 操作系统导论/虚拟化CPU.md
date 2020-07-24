@@ -20,7 +20,6 @@
   * [2.多队列调度](#2-----)
     + [3.Linux多处理器调度](#3linux------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
