@@ -9,6 +9,14 @@
 
 #### web工具庫
 
+* [Kolorobot Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) 快速生成springMVC4 Maven archetype web开发模板 [![GitHub stars](https://img.shields.io/github/stars/kolorobot/spring-mvc-quickstart-archetype.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kolorobot/spring-mvc-quickstart-archetype).
+
+* [Apache Forrest](http://forrest.apache.org/) Apache Forrest是一个把来自各种不同的输入数据源转换成用一种或多种输出格式(比如HTML,PDF等)来统一显示的发布系统. (https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
+
+
+#### 模板引擎
+
+
 
 
 
