@@ -9,6 +9,8 @@
 
 * [dropwizard](https://github.com/dropwizard/dropwizard) 也是一个web框架 [![GitHub stars](https://img.shields.io/github/stars/dropwizard/dropwizard.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dropwizard/dropwizard).
 
+* [quarkus](https://github.com/quarkusio/quarkus) 一个用于编写 Java 应用的云原生、容器优先框架 [![GitHub stars](https://img.shields.io/github/stars/quarkusio/quarkus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/quarkusio/quarkus).
+
 #### web工具庫
 
 * [Kolorobot Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) 快速生成springMVC4 Maven archetype web开发模板 [![GitHub stars](https://img.shields.io/github/stars/kolorobot/spring-mvc-quickstart-archetype.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kolorobot/spring-mvc-quickstart-archetype).
@@ -17,17 +19,19 @@
 
 * [cas](https://github.com/apereo/cas) 单点登录系统 [![GitHub stars](https://img.shields.io/github/stars/apereo/cas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apereo/cas).
 
+* [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) websocket解决方案 [![GitHub stars](https://img.shields.io/github/stars/TooTallNate/Java-WebSocket.svg?style=social&label=Star&maxAge=2592000)](https://github.com/TooTallNate/Java-WebSocket).
+
+* [springfox](https://github.com/springfox/springfox) 自动生成spring文档 [![GitHub stars](https://img.shields.io/github/stars/springfox/springfox.svg?style=social&label=Star&maxAge=2592000)](https://github.com/springfox/springfox).
+
+* [karate](https://github.com/intuit/karate) Web-API自动化测试框架,无需使用java语言，自动灵活的比较JSON和XML [![GitHub stars](https://img.shields.io/github/stars/intuit/karate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/intuit/karate).
+
 #### 模板引擎
 
 
-### 综合
-
-* [seata](https://github.com/seata/seata) 分布式事务 [![GitHub stars](https://img.shields.io/github/stars/seata/seata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/seata/seata).
 
 
 
-
-### 开发工具包
+### 开发工具
 
 * [Puniverse Quasar](https://github.com/puniverse/quasar) 一个基于JVM的协程框架.[![GitHub stars](https://img.shields.io/github/stars/puniverse/quasar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/quasar)
 
@@ -47,11 +51,41 @@
 
 * [tink](https://github.com/google/tink) 谷歌加密算法库.  [![GitHub stars](https://img.shields.io/github/stars/google/tink.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tink).
 
+* [resilience4j](https://github.com/resilience4j/resilience4j) 受Netflix的Hysrix项目启发,专门为Java 8 和函数式编程设计的轻量级容错框架.  [![GitHub stars](https://img.shields.io/github/stars/resilience4j/resilience4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/resilience4j/resilience4j).
+
+* [jna](https://github.com/java-native-access/jna) 提供一组Java工具类用于在运行期间动态访问系统本地库（native library：如Window的dll）而不需要编写任何Native/JNI代码.  [![GitHub stars](https://img.shields.io/github/stars/java-native-access/jna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-native-access/jna).
+
+* [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) 自动生成mybatis的GUI工具.  [![GitHub stars](https://img.shields.io/github/stars/zouzg/mybatis-generator-gui?style=social&label=Star&maxAge=2592000)](https://github.com/zouzg/mybatis-generator-gui).
+
+* [async-http-client](https://github.com/AsyncHttpClient/async-http-client) 异步HTTP调用.  [![GitHub stars](https://img.shields.io/github/stars/AsyncHttpClient/async-http-client?style=social&label=Star&maxAge=2592000)](https://github.com/AsyncHttpClient/async-http-client).
+
+* [rest-assured](https://github.com/rest-assured/rest-assured) 对HTTP返回值进行解析.  [![GitHub stars](https://img.shields.io/github/stars/rest-assured/rest-assured?style=social&label=Star&maxAge=2592000)](https://github.com/rest-assured/rest-assured).
+
+* [aeron](https://github.com/real-logic/aeron) 提供高效可靠的单播和多播消息传输机制。  传输介质: 可通过UDP、InfiniBand、共享内存等.  [![GitHub stars](https://img.shields.io/github/stars/real-logic/aeron?style=social&label=Star&maxAge=2592000)](https://github.com/real-logic/aeron).
+
+* [config](https://github.com/lightbend/config) 传统 Java 开发中常采用dev, prod 等不同后缀名的配置文件对不同环境进行区分，也算简单实用，只是不可避免会存在一些重复配置项，config就是用来解决这个问题  [![GitHub stars](https://img.shields.io/github/stars/lightbend/config?style=social&label=Star&maxAge=2592000)](https://github.com/lightbend/config).
+
+* [netty-socketio](https://github.com/mrniko/netty-socketio) socketio的JAVA实现  [![GitHub stars](https://img.shields.io/github/stars/mrniko/netty-socketio?style=social&label=Star&maxAge=2592000)](https://github.com/mrniko/netty-socketio).
+
+* [socket.io-client-java](https://github.com/socketio/socket.io-client-java) socketio的JAVA实现,client端  [![GitHub stars](https://img.shields.io/github/stars/socketio/socket.io-client-java?style=social&label=Star&maxAge=2592000)](https://github.com/socketio/socket.io-client-java).
+
+* [tcc-transaction](https://github.com/changmingxie/tcc-transaction) 分布式事务  [![GitHub stars](https://img.shields.io/github/stars/changmingxie/tcc-transaction?style=social&label=Star&maxAge=2592000)](https://github.com/changmingxie/tcc-transaction).
+
+* [seata](https://github.com/seata/seata) 分布式事务 [![GitHub stars](https://img.shields.io/github/stars/seata/seata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/seata/seata).
+
+* [pentaho-kettle](https://github.com/pentaho/pentaho-kettle) Kettle 开源的 ETL 工具 [![GitHub stars](https://img.shields.io/github/stars/pentaho/pentaho-kettle.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pentaho/pentaho-kettle).
+
+* [testcontainers-java](https://github.com/testcontainers/testcontainers-java) 测试在docker运行的系统  [![GitHub stars](https://img.shields.io/github/stars/testcontainers/testcontainers-java?style=social&label=Star&maxAge=2592000)](https://github.com/testcontainers/testcontainers-java).
+
+* [Leaf](https://github.com/Meituan-Dianping/Leaf) 分布式ID生成器  [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Leaf?style=social&label=Star&maxAge=2592000)](https://github.com/Meituan-Dianping/Leaf).
+
 
 
 ### 监控
 
 * [arthas](https://github.com/alibaba/arthas) 基于JVM的监控工具  [![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/arthas).
+
+* [graylog2-server](https://github.com/Graylog2/graylog2-server) Graylog日志监控系统 Graylog是一个开源的日志聚合、分析、审计、展现和预警工具。功能上和ELK类似,但又比ELK要简单,依靠着更加简洁,高效  [![GitHub stars](https://img.shields.io/github/stars/Graylog2/graylog2-server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Graylog2/graylog2-server).
 
 ### 安全
 
@@ -71,14 +105,25 @@
 
 * [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) 中文好资源收集  [![GitHub stars](https://img.shields.io/github/stars/kon9chunkit/GitHub-Chinese-Top-Charts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts).
 
+* [vjtools](https://github.com/vipshop/vjtools) 唯品会收集的一些java资源  [![GitHub stars](https://img.shields.io/github/stars/vipshop/vjtools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vipshop/vjtools).
+
+* [useful-java-links](https://github.com/Vedenin/useful-java-links) 一些超有用的JAVA资源，强力推荐  [![GitHub stars](https://img.shields.io/github/stars/Vedenin/useful-java-links.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vedenin/useful-java-links).
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
 
+* [cassandra](https://github.com/apache/cassandra) 一套开源分布式Key-Value存储系统  [![GitHub stars](https://img.shields.io/github/stars/apache/cassandra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/cassandra).
 
+### 流处理
 
+* [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
 
 
 ### AI
 
 * [deeplearning4j](https://github.com/eclipse/deeplearning4j)  一个基于JVM的深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/eclipse/deeplearning4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eclipse/deeplearning4j).
+
+* [ansj_seg](https://github.com/NLPchina/ansj_seg)  中文分词 [![GitHub stars](https://img.shields.io/github/stars/NLPchina/ansj_seg.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NLPchina/ansj_seg).
+
+* [smile](https://github.com/haifengl/smile) JAVA机器学习框架 [![GitHub stars](https://img.shields.io/github/stars/haifengl/smile.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haifengl/smile).
