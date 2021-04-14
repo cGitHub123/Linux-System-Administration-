@@ -57,7 +57,7 @@
 * 直接执行，指的是直接在CPU上运行程序，但现在有两个问题
    * 操作系统如何保证程序不做我们不希望他做的事
    * 进程间如何切换
-  
+
 #### 1.受限制的操作
 硬件通过提供不同的执行模式来协助操作系统，在用户模式下，应用程序无法完全访问硬件资源，在内核模式下，操作系统可以访问机器的全部资源
 
@@ -86,25 +86,32 @@
 * 工作一旦开始，就保持运行但完成
 * 只用CPU
 * 运行时间已知
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200620144630977.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZWlkb3UxMjM=,size_16,color_FFFFFF,t_70)
+
+![20210414_134347_83](image/20210414_134347_83.png)
+
 如图，平均周转时间为(100+110+120)/3 = 110，由于A的原因，拉长了B和C的周转时间，B，C响应时间也高
 #### 2.SJF最短任务优先
 先运行最短的任务，再运行次短的任务，如此下去，但是，当工作不是同时到达的时候，如下:
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200620145016498.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZWlkb3UxMjM=,size_16,color_FFFFFF,t_70)
+
+![20210414_134359_12](image/20210414_134359_12.png)
 
 我们可以看到，由于B和C到达较晚，所以平均周转时间又上去了，而且B,C响应时间也高
 #### 3.STCF 最短完成时间优先
 当B,C到达时，可以抢占A，谁能先完成，谁就运行，如下所示:
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200620145244104.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZWlkb3UxMjM=,size_16,color_FFFFFF,t_70)
+
+![20210414_134406_87](image/20210414_134406_87.png)
 
 假设A,B,C同时到达，那么第三个执行的响应时间也高
 #### 4.RR 轮转
 CPU不断切换时间片，在一个时间片执行一个进程，可以显著减低响应时间，但是每个进程如果运行时间相同，周转时间又会比较差了
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200620145719523.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZWlkb3UxMjM=,size_16,color_FFFFFF,t_70)
+
+![20210414_134416_18](image/20210414_134416_18.png)
+
 #### 5.结合IO
 进程当执行IO时，可以让出CPU，这时候就可以更好的利用处理器
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200620150155456.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZWlkb3UxMjM=,size_16,color_FFFFFF,t_70)
+![20210414_134423_13](image/20210414_134423_13.png) 
+
 #### 6.无法预知
 上面的情况根本上是我们知道每个工作的长度，但是现实中是不太可能的，所以上面本质上都是扯蛋
 
@@ -168,4 +175,3 @@ CPU不断切换时间片，在一个时间片执行一个进程，可以显著�
 * BF调度程序BFS，单队列，类似于更复杂比例调度
 
 目前对调度程序使用还没有一个定论
-
