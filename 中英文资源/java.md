@@ -7,17 +7,22 @@
 
 * [Grails](https://github.com/grails/grails-core) Grails 是一个全栈式框架，基于 Spring / Spring Boot 和 Hibernate 技术之上构建，通过其核心技术如 GORM、GSP、JSON 视图、插件，借助 Groovy 动态语言和强大的 DSL 使得构建现代 Web 应用更加容易。 [![GitHub stars](https://img.shields.io/github/stars/grails/grails-core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/grails/grails-core).
 
+* [dropwizard](https://github.com/dropwizard/dropwizard) 也是一个web框架 [![GitHub stars](https://img.shields.io/github/stars/dropwizard/dropwizard.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dropwizard/dropwizard).
+
 #### web工具庫
 
 * [Kolorobot Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) 快速生成springMVC4 Maven archetype web开发模板 [![GitHub stars](https://img.shields.io/github/stars/kolorobot/spring-mvc-quickstart-archetype.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kolorobot/spring-mvc-quickstart-archetype).
 
 * [Apache Forrest](http://forrest.apache.org/) Apache Forrest是一个把来自各种不同的输入数据源转换成用一种或多种输出格式(比如HTML,PDF等)来统一显示的发布系统. (https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
 
+* [cas](https://github.com/apereo/cas) 单点登录系统 [![GitHub stars](https://img.shields.io/github/stars/apereo/cas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apereo/cas).
 
 #### 模板引擎
 
 
+### 综合
 
+* [seata](https://github.com/seata/seata) 分布式事务 [![GitHub stars](https://img.shields.io/github/stars/seata/seata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/seata/seata).
 
 
 
@@ -38,4 +43,42 @@
 
 * [Apache Isis](http://isis.apache.org) 用于在 Java 中快速开发领域驱动应（domain-driven）用程序的框架。只需在实体、领域服务或视图模型中编写业务逻辑，该框架会将该领域模型的表示动态生成为 webapp 或丰富的超媒体 REST API
 
-*
+* [Luban](https://github.com/Curzibn/Luban) 图片压缩.  [![GitHub stars](https://img.shields.io/github/stars/Curzibn/Luban.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Curzibn/Luban).
+
+* [tink](https://github.com/google/tink) 谷歌加密算法库.  [![GitHub stars](https://img.shields.io/github/stars/google/tink.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/tink).
+
+
+
+### 监控
+
+* [arthas](https://github.com/alibaba/arthas) 基于JVM的监控工具  [![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/arthas).
+
+### 安全
+
+* [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
+
+* [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) 逆向jar包和安卓apk包  [![GitHub stars](https://img.shields.io/github/stars/Konloch/bytecode-viewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Konloch/bytecode-viewer).
+
+* [Apktool](https://github.com/iBotPeaches/Apktool) 逆向安卓apk包  [![GitHub stars](https://img.shields.io/github/stars/iBotPeaches/Apktool.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iBotPeaches/Apktool).
+
+### 资源收集
+
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式  [![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iluwatar/java-design-patterns).
+
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路  [![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MisterBooo/LeetCodeAnimation).
+
+* [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) JAVA算法实现  [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/TheAlgorithms/Java).
+
+* [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) 中文好资源收集  [![GitHub stars](https://img.shields.io/github/stars/kon9chunkit/GitHub-Chinese-Top-Charts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts).
+
+### 存储
+
+* [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
+
+
+
+
+
+### AI
+
+* [deeplearning4j](https://github.com/eclipse/deeplearning4j)  一个基于JVM的深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/eclipse/deeplearning4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/eclipse/deeplearning4j).
