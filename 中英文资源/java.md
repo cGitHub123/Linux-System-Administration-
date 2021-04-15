@@ -25,6 +25,8 @@
 
 * [karate](https://github.com/intuit/karate) Web-API自动化测试框架,无需使用java语言，自动灵活的比较JSON和XML [![GitHub stars](https://img.shields.io/github/stars/intuit/karate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/intuit/karate).
 
+* [wiremock](https://github.com/tomakehurst/wiremock) 是一个开源的测试工具,支持HTTP响应存根、请求验证、代理/拦截、记录和回放 [![GitHub stars](https://img.shields.io/github/stars/tomakehurst/wiremock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tomakehurst/wiremock).
+
 #### 模板引擎
 
 
@@ -79,7 +81,13 @@
 
 * [Leaf](https://github.com/Meituan-Dianping/Leaf) 分布式ID生成器  [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Leaf?style=social&label=Star&maxAge=2592000)](https://github.com/Meituan-Dianping/Leaf).
 
+* [gephi](https://github.com/gephi/gephi) 其中Gephi 是开源免费跨平台基于JVM的复杂网状图分析软件, 其主要用于各种网络和复杂系统  [![GitHub stars](https://img.shields.io/github/stars/gephi/gephi?style=social&label=Star&maxAge=2592000)](https://github.com/gephi/gephi).
 
+* [quasar](https://github.com/puniverse/quasar) JAVA轻量级线程库 [![GitHub stars](https://img.shields.io/github/stars/puniverse/quasar?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/quasar).
+
+* [byte-buddy](https://github.com/raphw/byte-buddy) 字节吗生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
+
+* [lettuce-core](https://github.com/lettuce-io/lettuce-core) 一个高级的redis客户端，支持同步，异步，反应式，订阅 [![GitHub stars](https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social&label=Star&maxAge=2592000)](https://github.com/lettuce-io/lettuce-core).
 
 ### 监控
 
@@ -95,6 +103,7 @@
 
 * [Apktool](https://github.com/iBotPeaches/Apktool) 逆向安卓apk包  [![GitHub stars](https://img.shields.io/github/stars/iBotPeaches/Apktool.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iBotPeaches/Apktool).
 
+
 ### 资源收集
 
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式  [![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iluwatar/java-design-patterns).
@@ -109,15 +118,25 @@
 
 * [useful-java-links](https://github.com/Vedenin/useful-java-links) 一些超有用的JAVA资源，强力推荐  [![GitHub stars](https://img.shields.io/github/stars/Vedenin/useful-java-links.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vedenin/useful-java-links).
 
+* [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) JAVA算法和数据结构实现  [![GitHub stars](https://img.shields.io/github/stars/java-algorithms-implementation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/phishman3579/java-algorithms-implementation).
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
 
 * [cassandra](https://github.com/apache/cassandra) 一套开源分布式Key-Value存储系统  [![GitHub stars](https://img.shields.io/github/stars/apache/cassandra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/cassandra).
 
+* [hazelcast](https://github.com/hazelcast/hazelcast)  Hazelcast是一个内存分布式计算平台,用于管理数据并并行执行执行应用程序，它是多线程的  [![GitHub stars](https://img.shields.io/github/stars/hazelcast/hazelcast.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hazelcast/hazelcast).
+
+* [mapdb](https://github.com/jankotek/mapdb)  JAVA存储到非堆内存  [![GitHub stars](https://img.shields.io/github/stars/jankotek/mapdb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jankotek/mapdb).
+
+* [mapdb](https://github.com/apache/ignite)  又一个内存数据库 [![GitHub stars](https://img.shields.io/github/stars/apache/ignite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ignite).
+
 ### 流处理
 
 * [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
+
+* [ksql](https://github.com/confluentinc/ksql) 一个基于kafka的数据库，可以根据kafka数据来构建schema [![GitHub stars](https://img.shields.io/github/stars/confluentinc/ksq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/ksql).
 
 
 ### AI
@@ -127,3 +146,5 @@
 * [ansj_seg](https://github.com/NLPchina/ansj_seg)  中文分词 [![GitHub stars](https://img.shields.io/github/stars/NLPchina/ansj_seg.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NLPchina/ansj_seg).
 
 * [smile](https://github.com/haifengl/smile) JAVA机器学习框架 [![GitHub stars](https://img.shields.io/github/stars/haifengl/smile.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haifengl/smile).
+
+* [libsvm](https://github.com/cjlin1/libsvm) 一个SVM分类和回归框架 [![GitHub stars](https://img.shields.io/github/stars/cjlin1/libsvm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cjlin1/libsvm).
