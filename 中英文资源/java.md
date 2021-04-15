@@ -27,6 +27,8 @@
 
 * [wiremock](https://github.com/tomakehurst/wiremock) 是一个开源的测试工具,支持HTTP响应存根、请求验证、代理/拦截、记录和回放 [![GitHub stars](https://img.shields.io/github/stars/tomakehurst/wiremock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tomakehurst/wiremock).
 
+* [moco](https://github.com/dreamhead/moco) 快速搭建一个可以返回HTTP请求的服务器 [![GitHub stars](https://img.shields.io/github/stars/dreamhead/moco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dreamhead/moco).
+
 #### 模板引擎
 
 
@@ -89,6 +91,11 @@
 
 * [lettuce-core](https://github.com/lettuce-io/lettuce-core) 一个高级的redis客户端，支持同步，异步，反应式，订阅 [![GitHub stars](https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social&label=Star&maxAge=2592000)](https://github.com/lettuce-io/lettuce-core).
 
+* [javaparser](https://github.com/javaparser/javaparser) 可以加载java文件并执行 [![GitHub stars](https://img.shields.io/github/stars/javaparser/javaparser?style=social&label=Star&maxAge=2592000)](https://github.com/javaparser/javaparser).
+
+* [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
+
+
 ### 监控
 
 * [arthas](https://github.com/alibaba/arthas) 基于JVM的监控工具  [![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/arthas).
@@ -130,7 +137,7 @@
 
 * [mapdb](https://github.com/jankotek/mapdb)  JAVA存储到非堆内存  [![GitHub stars](https://img.shields.io/github/stars/jankotek/mapdb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jankotek/mapdb).
 
-* [mapdb](https://github.com/apache/ignite)  又一个内存数据库 [![GitHub stars](https://img.shields.io/github/stars/apache/ignite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ignite).
+* [ignite](https://github.com/apache/ignite)  又一个内存数据库 [![GitHub stars](https://img.shields.io/github/stars/apache/ignite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ignite).
 
 ### 流处理
 
