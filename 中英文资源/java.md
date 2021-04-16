@@ -143,6 +143,8 @@
 
 * [flume](https://github.com/apache/flume) 收集日志用，不过现在log4j2可以直接连kafka [![GitHub stars](https://img.shields.io/github/stars/apache/flume.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/flume).
 
+* [JDA](https://github.com/DV8FromTheWorld/JDA) discord的JavaAPI [![GitHub stars](https://img.shields.io/github/stars/DV8FromTheWorld/JDA.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DV8FromTheWorld/JDA).
+
 ### native
 
 * [jna](https://github.com/java-native-access/jna) 提供一组Java工具类用于在运行期间动态访问系统本地库（native library：如Window的dll）而不需要编写任何Native/JNI代码.  [![GitHub stars](https://img.shields.io/github/stars/java-native-access/jna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-native-access/jna).
@@ -205,6 +207,7 @@
 
 * [Cknife](https://github.com/Chora10/Cknife) C刀，走后门用的  [![GitHub stars](https://img.shields.io/github/stars/Chora10/Cknife.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chora10/Cknife).
 
+* [pac4j](https://github.com/pac4j/pac4j) pac4j是一个java安全引擎，提供很多认证和授权机制  [![GitHub stars](https://img.shields.io/github/stars/pac4j/pac4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pac4j/pac4j).
 
 ### 资源收集
 
@@ -252,6 +255,7 @@
 
 * [grakn](https://github.com/graknlabs/grakn) JVM并发工具[![GitHub stars](https://img.shields.io/github/stars/graknlabs/grakn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graknlabs/grakn).
 
+* [jimfs](https://github.com/google/jimfs) 一个基于内存的文件系统[![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
 ### 流处理
 
