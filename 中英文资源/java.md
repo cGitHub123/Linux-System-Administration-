@@ -29,12 +29,6 @@
 
 * [moco](https://github.com/dreamhead/moco) 快速搭建一个可以返回HTTP请求的服务器 [![GitHub stars](https://img.shields.io/github/stars/dreamhead/moco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dreamhead/moco).
 
-#### 模板引擎
-
-
-
-
-
 ### 开发工具
 
 * [Puniverse Quasar](https://github.com/puniverse/quasar) 一个基于JVM的协程框架.[![GitHub stars](https://img.shields.io/github/stars/puniverse/quasar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/quasar)
@@ -58,6 +52,8 @@
 * [resilience4j](https://github.com/resilience4j/resilience4j) 受Netflix的Hysrix项目启发,专门为Java 8 和函数式编程设计的轻量级容错框架.  [![GitHub stars](https://img.shields.io/github/stars/resilience4j/resilience4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/resilience4j/resilience4j).
 
 * [jna](https://github.com/java-native-access/jna) 提供一组Java工具类用于在运行期间动态访问系统本地库（native library：如Window的dll）而不需要编写任何Native/JNI代码.  [![GitHub stars](https://img.shields.io/github/stars/java-native-access/jna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-native-access/jna).
+
+* [javacpp](https://github.com/bytedeco/javacpp) JAVA调用c++  [![GitHub stars](https://img.shields.io/github/stars/bytedeco/javacpp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bytedeco/javacpp).
 
 * [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) 自动生成mybatis的GUI工具.  [![GitHub stars](https://img.shields.io/github/stars/zouzg/mybatis-generator-gui?style=social&label=Star&maxAge=2592000)](https://github.com/zouzg/mybatis-generator-gui).
 
@@ -95,12 +91,55 @@
 
 * [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
 
+* [drools](https://github.com/kiegroup/drools) 规则引擎 [![GitHub stars](https://img.shields.io/github/stars/kiegroup/drools?style=social&label=Star&maxAge=2592000)](https://github.com/kiegroup/drools).
+
+* [easy-rules](https://github.com/j-easy/easy-rules) 规则引擎 [![GitHub stars](https://img.shields.io/github/stars/j-easy/easy-rules?style=social&label=Star&maxAge=2592000)](https://github.com/j-easy/easy-rules).
+
+* [thumbnailator](https://github.com/coobird/thumbnailator) 图片处理 [![GitHub stars](https://img.shields.io/github/stars/coobird/thumbnailator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/coobird/thumbnailator).
+
+* [reactor-core](https://github.com/reactor/reactor-core) reactor模式 [![GitHub stars](https://img.shields.io/github/stars/reactor/reactor-core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/reactor-core).
+
+* [failsafe](https://github.com/jhalterman/failsafe) 和guava-retry差不多的错误处理框架 [![GitHub stars](https://img.shields.io/github/stars/jhalterman/failsafe.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhalterman/failsafe).
+
+* [jitsi](https://github.com/jitsi/jitsi) 音视频通讯工具，支持SIP, XMPP/Jabber, IRC等等 [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jitsi/jitsi).
+
+* [http-request](https://github.com/kevinsawicki/http-request) HTTP请求框架 [![GitHub stars](https://img.shields.io/github/stars/kevinsawicki/http-request.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevinsawicki/http-request).
+
+* [armeria](https://github.com/line/armeria) 微服务构建工具，由Netty作者开源 [![GitHub stars](https://img.shields.io/github/stars/line/armeria.svg?style=social&label=Star&maxAge=2592000)](https://github.com/line/armeria).
+
+* [picocli](https://github.com/remkop/picocli) 构建JAVA命令行应用 [![GitHub stars](https://img.shields.io/github/stars/remkop/picocli.svg?style=social&label=Star&maxAge=2592000)](https://github.com/remkop/picocli).
+
+* [brigadier](https://github.com/Mojang/brigadier) JAVA命令行解析工具[![GitHub stars](https://img.shields.io/github/stars/Mojang/brigadier.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Mojang/brigadier).
+
+* [spock](https://github.com/spockframework/spock) JAVA测试框架[![GitHub stars](https://img.shields.io/github/stars/spockframework/spock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spockframework/spock).
+
+* [traccar](https://github.com/traccar/traccar) GPS定位软件[![GitHub stars](https://img.shields.io/github/stars/traccar/traccar.svg?style=social&label=Star&maxAge=2592000)](https://github.com/traccar/traccar).
+
+* [maxwell](https://github.com/zendesk/maxwell) 将mysql的binlog给json化输出到kafka或其他平台[![GitHub stars](https://img.shields.io/github/stars/zendesk/maxwell.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zendesk/maxwell).
+
+* [Recaf](https://github.com/Col-E/Recaf) java字节码编辑器[![GitHub stars](https://img.shields.io/github/stars/Col-E/Recaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Col-E/Recaf).
+
+* [PowerJob](https://github.com/PowerJob/PowerJob) 全新一代分布式调度与计算框架，能让您轻松完成作业的调度与繁杂任务的分布式计算[![GitHub stars](https://img.shields.io/github/stars/PowerJob/PowerJob.svg?style=social&label=Star&maxAge=2592000)](https://github.com/PowerJob/PowerJob).
+
+* [jacoco](https://github.com/jacoco/jacoco) 测试覆盖率工具[![GitHub stars](https://img.shields.io/github/stars/jacoco/jacoco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jacoco/jacoco).
+
+* [JCTools](https://github.com/JCTools/JCTools) JVM并发工具[![GitHub stars](https://img.shields.io/github/stars/JCTools/JCTools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JCTools/JCTools).
+
+* [ByteTCC](https://github.com/liuyangming/ByteTCC) TCC事物的实现[![GitHub stars](https://img.shields.io/github/stars/liuyangming/ByteTCC.svg?style=social&label=Star&maxAge=2592000)](https://github.com/liuyangming/ByteTCC).
+
+* [nifi](https://github.com/apache/nifi) 一个web流程图软件[![GitHub stars](https://img.shields.io/github/stars/apache/nifi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/nifi).
+
+* [tablesaw](https://github.com/jtablesaw/tablesaw) java可视化工具包[![GitHub stars](https://img.shields.io/github/stars/jtablesaw/tablesaw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jtablesaw/tablesaw).
 
 ### 监控
 
 * [arthas](https://github.com/alibaba/arthas) 基于JVM的监控工具  [![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/arthas).
 
 * [graylog2-server](https://github.com/Graylog2/graylog2-server) Graylog日志监控系统 Graylog是一个开源的日志聚合、分析、审计、展现和预警工具。功能上和ELK类似,但又比ELK要简单,依靠着更加简洁,高效  [![GitHub stars](https://img.shields.io/github/stars/Graylog2/graylog2-server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Graylog2/graylog2-server).
+
+* [GCViewer](https://github.com/chewiebug/GCViewer) GC可视化  [![GitHub stars](https://img.shields.io/github/stars/chewiebug/GCViewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chewiebug/GCViewer).
+
+* [jvm-tools](https://github.com/aragozin/jvm-tools) 基于命令行的JVM诊断和优化工具  [![GitHub stars](https://img.shields.io/github/stars/aragozin/jvm-tools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aragozin/jvm-tools).
 
 ### 安全
 
@@ -127,6 +166,10 @@
 
 * [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) JAVA算法和数据结构实现  [![GitHub stars](https://img.shields.io/github/stars/java-algorithms-implementation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/phishman3579/java-algorithms-implementation).
 
+* [AlgoDS](https://github.com/sherxon/AlgoDS) JAVA算法实现  [![GitHub stars](https://img.shields.io/github/stars/sherxon/AlgoDS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sherxon/AlgoDS).
+
+* [Leetcode](https://github.com/fishercoder1534/Leetcode) Leetcode解题方法 [![GitHub stars](https://img.shields.io/github/stars/fishercoder1534/Leetcode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fishercoder1534/Leetcode).
+
 ### 存储
 
 * [caffeine](https://github.com/ben-manes/caffeine) 本地缓存框架  [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ben-manes/caffeine).
@@ -138,6 +181,17 @@
 * [mapdb](https://github.com/jankotek/mapdb)  JAVA存储到非堆内存  [![GitHub stars](https://img.shields.io/github/stars/jankotek/mapdb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jankotek/mapdb).
 
 * [ignite](https://github.com/apache/ignite)  又一个内存数据库 [![GitHub stars](https://img.shields.io/github/stars/apache/ignite.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/ignite).
+
+* [trino](https://github.com/trinodb/trino)  hadoop查询引擎 [![GitHub stars](https://img.shields.io/github/stars/trinodb/trino.svg?style=social&label=Star&maxAge=2592000)](https://github.com/trinodb/trino).
+
+* [questdb](https://github.com/questdb/questdb)  实时数据库 [![GitHub stars](https://img.shields.io/github/stars/questdb/questdb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/questdb/questdb).
+
+* [pinot](https://github.com/apache/incubator-pinot) Pinot 从离线数据源（包括 Hadoop 和各类文件）和在线数据源（如 Kafka）中攫取数据进行分析 [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-pinot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/incubator-pinot).
+
+* [h2database](https://github.com/h2database/h2database) 基于磁盘和内存的数据库 [![GitHub stars](https://img.shields.io/github/stars/h2database/h2database.svg?style=social&label=Star&maxAge=2592000)](https://github.com/h2database/h2database).
+
+* [grakn](https://github.com/graknlabs/grakn) JVM并发工具[![GitHub stars](https://img.shields.io/github/stars/graknlabs/grakn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/graknlabs/grakn).
+
 
 ### 流处理
 
@@ -155,3 +209,11 @@
 * [smile](https://github.com/haifengl/smile) JAVA机器学习框架 [![GitHub stars](https://img.shields.io/github/stars/haifengl/smile.svg?style=social&label=Star&maxAge=2592000)](https://github.com/haifengl/smile).
 
 * [libsvm](https://github.com/cjlin1/libsvm) 一个SVM分类和回归框架 [![GitHub stars](https://img.shields.io/github/stars/cjlin1/libsvm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cjlin1/libsvm).
+
+* [librec](https://github.com/guoguibing/librec) JAVA推荐系统库 [![GitHub stars](https://img.shields.io/github/stars/guoguibing/librec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/guoguibing/librec).
+
+* [DeepLearning](https://github.com/yusugomori/DeepLearning) JAVA深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/yusugomori/DeepLearning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yusugomori/DeepLearning).
+
+### 区块链
+
+* [java-tron](https://github.com/tronprotocol/java-tron) 孙割的波场 [![GitHub stars](https://img.shields.io/github/stars/tronprotocol/java-tron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tronprotocol/java-tron).
