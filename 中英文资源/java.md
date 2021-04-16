@@ -135,6 +135,14 @@
 
 * [nutch](https://github.com/apache/nutch) web爬虫 [![GitHub stars](https://img.shields.io/github/stars/apache/nutch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/nutch).
 
+* [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) 是在bitmap结构基础上进行了改进 [![GitHub stars](https://img.shields.io/github/stars/RoaringBitmap/RoaringBitmap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RoaringBitmap/RoaringBitmap).
+
+* [optaplanner](https://github.com/kiegroup/optaplanner) 一个制定计划的工具包 [![GitHub stars](https://img.shields.io/github/stars/kiegroup/optaplanner.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiegroup/optaplanner).
+
+* [unirest-java](https://github.com/Kong/unirest-java) 一个不错的HTTP调用框架 [![GitHub stars](https://img.shields.io/github/stars/Kong/unirest-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Kong/unirest-java).
+
+* [flume](https://github.com/apache/flume) 收集日志用，不过现在log4j2可以直接连kafka [![GitHub stars](https://img.shields.io/github/stars/apache/flume.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/flume).
+
 ### native
 
 * [jna](https://github.com/java-native-access/jna) 提供一组Java工具类用于在运行期间动态访问系统本地库（native library：如Window的dll）而不需要编写任何Native/JNI代码.  [![GitHub stars](https://img.shields.io/github/stars/java-native-access/jna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-native-access/jna).
@@ -163,9 +171,11 @@
 
 * [seata](https://github.com/seata/seata) 分布式事务 [![GitHub stars](https://img.shields.io/github/stars/seata/seata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/seata/seata).
 
-* [Leaf](https://github.com/Meituan-Dianping/Leaf) 分布式ID生成器  [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Leaf?style=social&label=Star&maxAge=2592000)](https://github.com/Meituan-Dianping/Leaf).
+* [Leaf](https://github.com/Meituan-Dianping/Leaf) 分布式ID生成器  [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Leaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Meituan-Dianping/Leaf).
 
-* [sofa-jraft](https://github.com/sofastack/sofa-jraft) RAFT协议实现  [![GitHub stars](https://img.shields.io/github/stars/sofastack/sofa-jraft?style=social&label=Star&maxAge=2592000)](https://github.com/sofastack/sofa-jraft).
+* [sofa-jraft](https://github.com/sofastack/sofa-jraft) RAFT协议实现  [![GitHub stars](https://img.shields.io/github/stars/sofastack/sofa-jraft.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sofastack/sofa-jraft).
+
+* [brave](https://github.com/openzipkin/brave) 分布式链路追踪 [![GitHub stars](https://img.shields.io/github/stars/openzipkin/brave.svgs?style=social&label=Star&maxAge=2592000)]https://github.com/openzipkin/brave).
 
 ### 监控
 
@@ -181,6 +191,8 @@
 
 * [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) HotSpot JIT编译器的日志分析器和可视化工具  [![GitHub stars](https://img.shields.io/github/stars/AdoptOpenJDK/jitwatch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/AdoptOpenJDK/jitwatch).
 
+* [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) 收集监控指标的java-agent [![GitHub stars](https://img.shields.io/github/stars/LinShunKang/MyPerf4J.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LinShunKang/MyPerf4J).
+
 ### 安全
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
@@ -191,7 +203,7 @@
 
 * [keywhiz](https://github.com/square/keywhiz) 密钥管理系统  [![GitHub stars](https://img.shields.io/github/stars/square/keywhiz.svg?style=social&label=Star&maxAge=2592000)](https://github.com/square/keywhiz).
 
-
+* [Cknife](https://github.com/Chora10/Cknife) C刀，走后门用的  [![GitHub stars](https://img.shields.io/github/stars/Chora10/Cknife.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chora10/Cknife).
 
 
 ### 资源收集
@@ -215,6 +227,8 @@
 * [Leetcode](https://github.com/fishercoder1534/Leetcode) Leetcode解题方法 [![GitHub stars](https://img.shields.io/github/stars/fishercoder1534/Leetcode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fishercoder1534/Leetcode).
 
 * [data-structures](https://github.com/williamfiset/data-structures) 一些强大的数据结构 [![GitHub stars](https://img.shields.io/github/stars/williamfiset/data-structures.svg?style=social&label=Star&maxAge=2592000)](https://github.com/williamfiset/data-structures).
+
+* [HackerRank_solutions](https://github.com/RodneyShag/HackerRank_solutions) HackerRank_solutions的解答 [![GitHub stars](https://img.shields.io/github/stars/RodneyShag/HackerRank_solutions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RodneyShag/HackerRank_solutions).
 
 ### 存储
 
@@ -262,6 +276,8 @@
 * [DeepLearning](https://github.com/yusugomori/DeepLearning) JAVA深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/yusugomori/DeepLearning.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yusugomori/DeepLearning).
 
 * [fnlp](https://github.com/FudanNLP/fnlp) 中文自然语言处理工具包 [![GitHub stars](https://img.shields.io/github/stars/FudanNLP/fnlp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/FudanNLP/fnlp).
+
+* [C-OCR](https://github.com/ctripcorp/C-OCR) C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别 [![GitHub stars](https://img.shields.io/github/stars/ctripcorp/C-OCR.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ctripcorp/C-OCR).
 
 ### 区块链
 
