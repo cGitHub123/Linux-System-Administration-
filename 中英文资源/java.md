@@ -69,13 +69,13 @@
 
 * [gephi](https://github.com/gephi/gephi) 其中Gephi 是开源免费跨平台基于JVM的复杂网状图分析软件, 其主要用于各种网络和复杂系统  [![GitHub stars](https://img.shields.io/github/stars/gephi/gephi?style=social&label=Star&maxAge=2592000)](https://github.com/gephi/gephi).
 
-
-
 * [lettuce-core](https://github.com/lettuce-io/lettuce-core) 一个高级的redis客户端，支持同步，异步，反应式，订阅 [![GitHub stars](https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social&label=Star&maxAge=2592000)](https://github.com/lettuce-io/lettuce-core).
 
 * [javaparser](https://github.com/javaparser/javaparser) 可以加载java文件并执行 [![GitHub stars](https://img.shields.io/github/stars/javaparser/javaparser?style=social&label=Star&maxAge=2592000)](https://github.com/javaparser/javaparser).
 
 * [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
+
+* [reflectasm](https://github.com/EsotericSoftware/reflectasm) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/reflectasm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/reflectasm).
 
 * [jOOR](https://github.com/jOOQ/jOOR) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/jOOQ/jOOR.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jOOQ/jOOR).
 
@@ -163,6 +163,14 @@
 
 * [cqengine](https://github.com/npgall/cqengine) 对JAVA集合采用SQL查询  [![GitHub stars](https://img.shields.io/github/stars/npgall/cqengine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/npgall/cqengine).
 
+* [capsule](https://github.com/puniverse/capsule) 开源 JVM 应用部署和打包工具  [![GitHub stars](https://img.shields.io/github/stars/puniverse/capsule.svg?style=social&label=Star&maxAge=2592000)](https://github.com/puniverse/capsule).
+
+* [cuba](https://github.com/cuba-platform/cuba) 企业级应用开发  [![GitHub stars](https://img.shields.io/github/stars/cuba-platform/cuba.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cuba-platform/cuba).
+
+* [easy-random](https://github.com/j-easy/easy-random) JAVA随机属性生成器  [![GitHub stars](https://img.shields.io/github/stars/j-easy/easy-random.svg?style=social&label=Star&maxAge=2592000)](https://github.com/j-easy/easy-random).
+
+* [guava-retrying](https://github.com/rholder/guava-retrying) guava重试框架  [![GitHub stars](https://img.shields.io/github/stars/rholder/guava-retrying.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rholder/guava-retrying).
+
 ### 字节码/热替换
 
 * [byte-buddy](https://github.com/raphw/byte-buddy) 字节码生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
@@ -195,6 +203,10 @@
 
 * [kilim](https://github.com/kilim/kilim) JAVA轻量集线程库 [![GitHub stars](https://img.shields.io/github/stars/kilim/kilim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kilim/kilim).
 
+* [java-concurrency-patterns](https://github.com/LeonardoZ/java-concurrency-patterns) JAVA多线程资源 [![GitHub stars](https://img.shields.io/github/stars/LeonardoZ/java-concurrency-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LeonardoZ/java-concurrency-patterns).
+
+* [parseq](https://github.com/linkedin/parseq) 让异步代码更简单 [![GitHub stars](https://img.shields.io/github/stars/linkedin/parseq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/linkedin/parseq).
+
 ### 分布式
 
 * [ByteTCC](https://github.com/liuyangming/ByteTCC) TCC事务的实现[![GitHub stars](https://img.shields.io/github/stars/liuyangming/ByteTCC.svg?style=social&label=Star&maxAge=2592000)](https://github.com/liuyangming/ByteTCC).
@@ -216,6 +228,8 @@
 * [bt](https://github.com/atomashpolskiy/bt) 一个轻量级BitTorrent框架 [![GitHub stars](https://img.shields.io/github/stars/atomashpolskiy/bt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomashpolskiy/bt).
 
 * [NettyRpc](https://github.com/luxiaoxun/NettyRpc) 一个基于Netty的RPC框架 [![GitHub stars](https://img.shields.io/github/stars/luxiaoxun/NettyRpc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/luxiaoxun/NettyRpc).
+
+* [NettyRpc](https://github.com/tang-jie/NettyRPC) 一个基于Netty的RPC框架 [![GitHub stars](https://img.shields.io/github/stars/tang-jie/NettyRPC.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tang-jie/NettyRPC).
 
 ### 监控
 
@@ -248,6 +262,8 @@
 
 * [mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) mysql监控工具 [![GitHub stars](https://img.shields.io/github/stars/yahoo/mysql_perf_analyzer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yahoo/mysql_perf_analyzer).
 
+* [psi-probe](https://github.com/psi-probe/psi-probe) tomcat监控工具 [![GitHub stars](https://img.shields.io/github/stars/psi-probe/psi-probe.svg?style=social&label=Star&maxAge=2592000)](https://github.com/psi-probe/psi-probe).
+
 ### 安全
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
@@ -269,6 +285,8 @@
 * [TrackRay](https://github.com/iSafeBlue/TrackRay) 一个开源渗透测试框架，框架自身实现了漏洞扫描功能，集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS、Burpsuite等  [![GitHub stars](https://img.shields.io/github/stars/iSafeBlue/TrackRay.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iSafeBlue/TrackRay).
 
 * [learnjavabug](https://github.com/threedr3am/learnjavabug) Java安全相关的漏洞和技术demo  [![GitHub stars](https://img.shields.io/github/stars/threedr3am/learnjavabug.svg?style=social&label=Star&maxAge=2592000)](https://github.com/threedr3am/learnjavabug).
+
+* [java-sec-code](https://github.com/JoyChou93/java-sec-code) spring/springboot安全审查  [![GitHub stars](https://img.shields.io/github/stars/JoyChou93/java-sec-code.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JoyChou93/java-sec-code).
 
 ### 资源收集
 
