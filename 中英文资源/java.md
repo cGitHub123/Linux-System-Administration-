@@ -69,7 +69,7 @@
 
 * [gephi](https://github.com/gephi/gephi) 其中Gephi 是开源免费跨平台基于JVM的复杂网状图分析软件, 其主要用于各种网络和复杂系统  [![GitHub stars](https://img.shields.io/github/stars/gephi/gephi?style=social&label=Star&maxAge=2592000)](https://github.com/gephi/gephi).
 
-* [byte-buddy](https://github.com/raphw/byte-buddy) 字节吗生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
+
 
 * [lettuce-core](https://github.com/lettuce-io/lettuce-core) 一个高级的redis客户端，支持同步，异步，反应式，订阅 [![GitHub stars](https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social&label=Star&maxAge=2592000)](https://github.com/lettuce-io/lettuce-core).
 
@@ -105,8 +105,6 @@
 
 * [maxwell](https://github.com/zendesk/maxwell) 将mysql的binlog给json化输出到kafka或其他平台[![GitHub stars](https://img.shields.io/github/stars/zendesk/maxwell.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zendesk/maxwell).
 
-* [Recaf](https://github.com/Col-E/Recaf) java字节码编辑器[![GitHub stars](https://img.shields.io/github/stars/Col-E/Recaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Col-E/Recaf).
-
 * [PowerJob](https://github.com/PowerJob/PowerJob) 全新一代分布式调度与计算框架，能让您轻松完成作业的调度与繁杂任务的分布式计算[![GitHub stars](https://img.shields.io/github/stars/PowerJob/PowerJob.svg?style=social&label=Star&maxAge=2592000)](https://github.com/PowerJob/PowerJob).
 
 * [jacoco](https://github.com/jacoco/jacoco) 测试覆盖率工具[![GitHub stars](https://img.shields.io/github/stars/jacoco/jacoco.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jacoco/jacoco).
@@ -115,13 +113,11 @@
 
 * [tablesaw](https://github.com/jtablesaw/tablesaw) java可视化工具包[![GitHub stars](https://img.shields.io/github/stars/jtablesaw/tablesaw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jtablesaw/tablesaw).
 
-* [spring-loaded](https://github.com/spring-projects/spring-loaded) 一个热部署工具，但是这玩意一般不建议使用 [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-loaded.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-projects/spring-loaded).
-
 * [JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) JAVA正则表达式 [![GitHub stars](https://img.shields.io/github/stars/VerbalExpressions/JavaVerbalExpressions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VerbalExpressions/JavaVerbalExpressions).
 
-* [curator](https://github.com/apache/curator) ZK客户端 [![GitHub stars](https://img.shields.io/github/stars/VerbalExpressions/apache/curator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/curator).
+* [curator](https://github.com/apache/curator) ZK客户端 [![GitHub stars](https://img.shields.io/github/stars/apache/curator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/curator).
 
-* [simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) 超快的二进制转换，用于传输 [![GitHub stars](https://img.shields.io/github/stars/VerbalExpressions/real-logic/simple-binary-encoding.svg?style=social&label=Star&maxAge=2592000)](https://github.com/real-logic/simple-binary-encoding).
+* [simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) 超快的二进制转换，用于传输 [![GitHub stars](https://img.shields.io/github/stars/real-logic/simple-binary-encoding.svg?style=social&label=Star&maxAge=2592000)](https://github.com/real-logic/simple-binary-encoding).
 
 * [xdm](https://github.com/subhra74/xdm) 下载加速工具 [![GitHub stars](https://img.shields.io/github/stars/subhra74/xdm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/subhra74/xdm).
 
@@ -145,6 +141,38 @@
 
 * [JDA](https://github.com/DV8FromTheWorld/JDA) discord的JavaAPI [![GitHub stars](https://img.shields.io/github/stars/DV8FromTheWorld/JDA.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DV8FromTheWorld/JDA).
 
+* [classgraph](https://github.com/classgraph/classgraph) 超快速超轻量级并行化的Java类路径扫描程序 [![GitHub stars](https://img.shields.io/github/stars/classgraph/classgraph.svg?style=social&label=Star&maxAge=2592000)](https://github.com/classgraph/classgraph).
+
+* [sofa-bolt](https://github.com/sofastack/sofa-bolt) 蚂蚁金融服务集团开发的一套基于 Netty 实现的网络通信框架 [![GitHub stars](https://img.shields.io/github/stars/sofastack/sofa-bolt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sofastack/sofa-bolt).
+
+* [agrona](https://github.com/real-logic/agrona)  Java和C高性能的数据结构和实用方法 [![GitHub stars](https://img.shields.io/github/stars/real-logic/agrona.svg?style=social&label=Star&maxAge=2592000)](https://github.com/real-logic/agrona).
+
+* [sshj](https://github.com/hierynomus/sshj) java ssh,scp,sftp工具库  [![GitHub stars](https://img.shields.io/github/stars/hierynomus/sshj.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hierynomus/sshj).
+
+* [piranha](https://github.com/uber/piranha) 一种自动重构过时标识相关代码的工具  [![GitHub stars](https://img.shields.io/github/stars/uber/piranha.svg?style=social&label=Star&maxAge=2592000)](https://github.com/uber/piranha).
+
+* [streamex](https://github.com/amaembo/streamex) lamdba表达式的增强  [![GitHub stars](https://img.shields.io/github/stars/amaembo/streamex.svg?style=social&label=Star&maxAge=2592000)](https://github.com/amaembo/streamex).
+
+* [kryonet](https://github.com/EsotericSoftware/kryonet) 提供了一套简洁的API来实现高效的,基于TCP和UDP协议的客户端/服务器NIO网络通信  [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/kryonet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EsotericSoftware/kryonet).
+
+* [reactor-netty](https://github.com/reactor/reactor-netty) 一个HTTP UDP TCP框架，主要用于微服务架构  [![GitHub stars](https://img.shields.io/github/stars/reactor/reactor-netty.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/reactor-netty).
+
+* [json-schema-validator](https://github.com/java-json-tools/json-schema-validator) JSON校验框架  [![GitHub stars](https://img.shields.io/github/stars/java-json-tools/json-schema-validator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-json-tools/json-schema-validator).
+
+* [JApiDocs](https://github.com/YeDaxia/JApiDocs) 一个基于springboot免注解的文档生成器  [![GitHub stars](https://img.shields.io/github/stars/YeDaxia/JApiDocs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/YeDaxia/JApiDocs).
+
+* [cqengine](https://github.com/npgall/cqengine) 对JAVA集合采用SQL查询  [![GitHub stars](https://img.shields.io/github/stars/npgall/cqengine.svg?style=social&label=Star&maxAge=2592000)](https://github.com/npgall/cqengine).
+
+### 字节码/热替换
+
+* [byte-buddy](https://github.com/raphw/byte-buddy) 字节码生成 [![GitHub stars](https://img.shields.io/github/stars/raphw/byte-buddy?style=social&label=Star&maxAge=2592000)](https://github.com/raphw/byte-buddy).
+
+* [spring-loaded](https://github.com/spring-projects/spring-loaded) 一个热部署工具，但是这玩意一般不建议使用 [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-loaded.svg?style=social&label=Star&maxAge=2592000)](https://github.com/spring-projects/spring-loaded).
+
+* [Recaf](https://github.com/Col-E/Recaf) java字节码编辑器[![GitHub stars](https://img.shields.io/github/stars/Col-E/Recaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Col-E/Recaf).
+
+* [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) java热替换工具[![GitHub stars](https://img.shields.io/github/stars/HotswapProjects/HotswapAgent.svg?style=social&label=Star&maxAge=2592000)](https://github.com/HotswapProjects/HotswapAgent).
+
 ### native
 
 * [jna](https://github.com/java-native-access/jna) 提供一组Java工具类用于在运行期间动态访问系统本地库（native library：如Window的dll）而不需要编写任何Native/JNI代码.  [![GitHub stars](https://img.shields.io/github/stars/java-native-access/jna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-native-access/jna).
@@ -163,7 +191,9 @@
 
 * [awaitility](https://github.com/awaitility/awaitility) 同步"异步"操作，比如我们测试的时候 [![GitHub stars](https://img.shields.io/github/stars/awaitility/awaitility.svg?style=social&label=Star&maxAge=2592000)](https://github.com/awaitility/awaitility).
 
-* [concurrent](https://github.com/RedSpider1/concurrent) RedSpider社区成员原创与维护的Java多线程系列文章。 [![GitHub stars](https://img.shields.io/github/stars/RedSpider1/concurrent.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RedSpider1/concurrent).
+* [concurrent](https://github.com/RedSpider1/concurrent) RedSpider社区成员原创与维护的Java多线程系列文章 [![GitHub stars](https://img.shields.io/github/stars/RedSpider1/concurrent.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RedSpider1/concurrent).
+
+* [kilim](https://github.com/kilim/kilim) JAVA轻量集线程库 [![GitHub stars](https://img.shields.io/github/stars/kilim/kilim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kilim/kilim).
 
 ### 分布式
 
@@ -173,11 +203,19 @@
 
 * [seata](https://github.com/seata/seata) 分布式事务 [![GitHub stars](https://img.shields.io/github/stars/seata/seata.svg?style=social&label=Star&maxAge=2592000)](https://github.com/seata/seata).
 
+* [raincat](https://github.com/dromara/raincat) 分布式事务 [![GitHub stars](https://img.shields.io/github/stars/dromara/raincat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dromara/raincat).
+
 * [Leaf](https://github.com/Meituan-Dianping/Leaf) 分布式ID生成器  [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Leaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Meituan-Dianping/Leaf).
 
 * [sofa-jraft](https://github.com/sofastack/sofa-jraft) RAFT协议实现  [![GitHub stars](https://img.shields.io/github/stars/sofastack/sofa-jraft.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sofastack/sofa-jraft).
 
-* [brave](https://github.com/openzipkin/brave) 分布式链路追踪 [![GitHub stars](https://img.shields.io/github/stars/openzipkin/brave.svgs?style=social&label=Star&maxAge=2592000)]https://github.com/openzipkin/brave).
+* [brave](https://github.com/openzipkin/brave) 分布式链路追踪 [![GitHub stars](https://img.shields.io/github/stars/openzipkin/brave.svg?style=social&label=Star&maxAge=2592000)](https://github.com/openzipkin/brave).
+
+* [opentracing-java](https://github.com/opentracing/opentracing-java) 分布式链路追踪 [![GitHub stars](https://img.shields.io/github/stars/opentracing/opentracing-java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/opentracing/opentracing-java).
+
+* [bt](https://github.com/atomashpolskiy/bt) 一个轻量级BitTorrent框架 [![GitHub stars](https://img.shields.io/github/stars/atomashpolskiy/bt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atomashpolskiy/bt).
+
+* [NettyRpc](https://github.com/luxiaoxun/NettyRpc) 一个基于Netty的RPC框架 [![GitHub stars](https://img.shields.io/github/stars/luxiaoxun/NettyRpc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/luxiaoxun/NettyRpc).
 
 ### 监控
 
@@ -195,6 +233,21 @@
 
 * [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) 收集监控指标的java-agent [![GitHub stars](https://img.shields.io/github/stars/LinShunKang/MyPerf4J.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LinShunKang/MyPerf4J).
 
+* [jmx_exporter](https://github.com/prometheus/jmx_exporter) 可以用Jmx exporter+Prometheus+Grafana 监控 JVM
+[![GitHub stars](https://img.shields.io/github/stars/prometheus/jmx_exporter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/prometheus/jmx_exporter).
+
+* [kafka-rest](https://github.com/confluentinc/kafka-rest) kafka的restful接口，提供了生成和消费消息，观察集群状态的功能
+[![GitHub stars](https://img.shields.io/github/stars/confluentinc/kafka-rest.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/kafka-rest).
+
+* [scouter](https://github.com/scouter-project/scouter) 一个应用监控工具，可以监控java应用，Linux，ES等等很多
+[![GitHub stars](https://img.shields.io/github/stars/scouter-project/scouter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scouter-project/scouter).
+
+* [jmxtrans](https://github.com/jmxtrans/jmxtrans) JMX（Java管理扩展），是一套给应用程序引入监控管理功能的接口。比如我们可以通过JMX来监控Tomcat的运行状态。JMX最主要的应用场景就是中间件的监控，配置文件的在线修改配置[![GitHub stars](https://img.shields.io/github/stars/jmxtrans/jmxtrans.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jmxtrans/jmxtrans).
+
+* [jvm-profiler](https://github.com/uber-common/jvm-profiler) JVM监控工具 [![GitHub stars](https://img.shields.io/github/stars/uber-common/jvm-profiler.svg?style=social&label=Star&maxAge=2592000)](https://github.com/uber-common/jvm-profiler).
+
+* [mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) mysql监控工具 [![GitHub stars](https://img.shields.io/github/stars/yahoo/mysql_perf_analyzer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yahoo/mysql_perf_analyzer).
+
 ### 安全
 
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) 逆向工程框架  [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NationalSecurityAgency/ghidra).
@@ -208,6 +261,14 @@
 * [Cknife](https://github.com/Chora10/Cknife) C刀，走后门用的  [![GitHub stars](https://img.shields.io/github/stars/Chora10/Cknife.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chora10/Cknife).
 
 * [pac4j](https://github.com/pac4j/pac4j) pac4j是一个java安全引擎，提供很多认证和授权机制  [![GitHub stars](https://img.shields.io/github/stars/pac4j/pac4j.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pac4j/pac4j).
+
+* [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) JAVA安全审计工具  [![GitHub stars](https://img.shields.io/github/stars/find-sec-bugs/find-sec-bugs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/find-sec-bugs/find-sec-bugs).
+
+* [marshalsec](https://github.com/mbechler/marshalsec) JAVA反序列化审计工具  [![GitHub stars](https://img.shields.io/github/stars/mbechler/marshalsec.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mbechler/marshalsec).
+
+* [TrackRay](https://github.com/iSafeBlue/TrackRay) 一个开源渗透测试框架，框架自身实现了漏洞扫描功能，集成了知名安全工具：Metasploit、Nmap、Sqlmap、AWVS、Burpsuite等  [![GitHub stars](https://img.shields.io/github/stars/iSafeBlue/TrackRay.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iSafeBlue/TrackRay).
+
+* [learnjavabug](https://github.com/threedr3am/learnjavabug) Java安全相关的漏洞和技术demo  [![GitHub stars](https://img.shields.io/github/stars/threedr3am/learnjavabug.svg?style=social&label=Star&maxAge=2592000)](https://github.com/threedr3am/learnjavabug).
 
 ### 资源收集
 
@@ -223,7 +284,7 @@
 
 * [useful-java-links](https://github.com/Vedenin/useful-java-links) 一些超有用的JAVA资源，强力推荐  [![GitHub stars](https://img.shields.io/github/stars/Vedenin/useful-java-links.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vedenin/useful-java-links).
 
-* [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) JAVA算法和数据结构实现  [![GitHub stars](https://img.shields.io/github/stars/java-algorithms-implementation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/phishman3579/java-algorithms-implementation).
+* [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) JAVA算法和数据结构实现  [![GitHub stars](https://img.shields.io/github/stars/phishman3579/java-algorithms-implementation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/phishman3579/java-algorithms-implementation).
 
 * [AlgoDS](https://github.com/sherxon/AlgoDS) JAVA算法实现  [![GitHub stars](https://img.shields.io/github/stars/sherxon/AlgoDS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sherxon/AlgoDS).
 
@@ -232,6 +293,14 @@
 * [data-structures](https://github.com/williamfiset/data-structures) 一些强大的数据结构 [![GitHub stars](https://img.shields.io/github/stars/williamfiset/data-structures.svg?style=social&label=Star&maxAge=2592000)](https://github.com/williamfiset/data-structures).
 
 * [HackerRank_solutions](https://github.com/RodneyShag/HackerRank_solutions) HackerRank_solutions的解答 [![GitHub stars](https://img.shields.io/github/stars/RodneyShag/HackerRank_solutions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RodneyShag/HackerRank_solutions).
+
+* [restcountries](https://github.com/apilayer/restcountries) 根据API接口获得国家信息 [![GitHub stars](https://img.shields.io/github/stars/apilayer/restcountries.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apilayer/restcountries).
+
+* [java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) JAVA8 [![GitHub stars](https://img.shields.io/github/stars/shekhargulati/java8-the-missing-tutorial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shekhargulati/java8-the-missing-tutorial).
+
+* [codelibrary](https://github.com/indy256/codelibrary) C++ JAVA Kotlin Python的算法和数据结构包 [![GitHub stars](https://img.shields.io/github/stars/indy256/codelibrary.svg?style=social&label=Star&maxAge=2592000)](https://github.com/indy256/codelibrary).
+
+* [JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) JAVA函数式编程 [![GitHub stars](https://img.shields.io/github/stars/CarpenterLee/JavaLambdaInternals.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CarpenterLee/JavaLambdaInternals).
 
 ### 存储
 
@@ -257,6 +326,8 @@
 
 * [jimfs](https://github.com/google/jimfs) 一个基于内存的文件系统[![GitHub stars](https://img.shields.io/github/stars/google/jimfs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/jimfs).
 
+* [hudi](https://github.com/apache/hudi) 用于在Hadoop上执行诸如更新，插入和删除之类的操作 [![GitHub stars](https://img.shields.io/github/stars/apache/hudi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/hudi).
+
 ### 流处理
 
 * [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
@@ -264,6 +335,8 @@
 * [ksql](https://github.com/confluentinc/ksql) 一个基于kafka的数据库，可以根据kafka数据来构建schema [![GitHub stars](https://img.shields.io/github/stars/confluentinc/ksq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/ksql).
 
 * [stream-lib](https://github.com/addthis/stream-lib) 实时计算工具库 [![GitHub stars](https://img.shields.io/github/stars/addthis/stream-lib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/addthis/stream-lib).
+
+* [kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) kafka流处理，和flink spark一个性质 [![GitHub stars](https://img.shields.io/github/stars/confluentinc/kafka-streams-examples.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/kafka-streams-examples).
 
 ### AI
 
@@ -282,6 +355,8 @@
 * [fnlp](https://github.com/FudanNLP/fnlp) 中文自然语言处理工具包 [![GitHub stars](https://img.shields.io/github/stars/FudanNLP/fnlp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/FudanNLP/fnlp).
 
 * [C-OCR](https://github.com/ctripcorp/C-OCR) C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别 [![GitHub stars](https://img.shields.io/github/stars/ctripcorp/C-OCR.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ctripcorp/C-OCR).
+
+* [djl](https://github.com/awslabs/djl) java深度学习框架 [![GitHub stars](https://img.shields.io/github/stars/awslabs/djl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/awslabs/djl).
 
 ### 区块链
 
