@@ -59,11 +59,15 @@
 
 * [jna](https://github.com/java-native-access/jna) 提供一组Java工具类用于在运行期间动态访问系统本地库（native library：如Window的dll）而不需要编写任何Native/JNI代码.  [![GitHub stars](https://img.shields.io/github/stars/java-native-access/jna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/java-native-access/jna).
 
+* [javacpp](https://github.com/bytedeco/javacpp) java调用c++ [![GitHub stars](https://img.shields.io/github/stars/bytedeco/javacpp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bytedeco/javacpp).
+
 * [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) 自动生成mybatis的GUI工具.  [![GitHub stars](https://img.shields.io/github/stars/zouzg/mybatis-generator-gui?style=social&label=Star&maxAge=2592000)](https://github.com/zouzg/mybatis-generator-gui).
 
 * [async-http-client](https://github.com/AsyncHttpClient/async-http-client) 异步HTTP调用.  [![GitHub stars](https://img.shields.io/github/stars/AsyncHttpClient/async-http-client?style=social&label=Star&maxAge=2592000)](https://github.com/AsyncHttpClient/async-http-client).
 
 * [rest-assured](https://github.com/rest-assured/rest-assured) 对HTTP返回值进行解析.  [![GitHub stars](https://img.shields.io/github/stars/rest-assured/rest-assured?style=social&label=Star&maxAge=2592000)](https://github.com/rest-assured/rest-assured).
+
+* [http-request](https://github.com/kevinsawicki/http-request) HTTP请求框架 [![GitHub stars](https://img.shields.io/github/stars/kevinsawicki/http-request.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kevinsawicki/http-request).
 
 * [aeron](https://github.com/real-logic/aeron) 提供高效可靠的单播和多播消息传输机制。  传输介质: 可通过UDP、InfiniBand、共享内存等.  [![GitHub stars](https://img.shields.io/github/stars/real-logic/aeron?style=social&label=Star&maxAge=2592000)](https://github.com/real-logic/aeron).
 
@@ -95,12 +99,21 @@
 
 * [reflections](https://github.com/ronmamo/reflections) 反射工具包 [![GitHub stars](https://img.shields.io/github/stars/ronmamo/reflections?style=social&label=Star&maxAge=2592000)](https://github.com/ronmamo/reflections).
 
+* [drools](https://github.com/kiegroup/drools) 规则引擎  [![GitHub stars](https://img.shields.io/github/stars/kiegroup/drools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kiegroup/drools).
+
+* [reactor-core](https://github.com/reactor/reactor-core) reactor模式  [![GitHub stars](https://img.shields.io/github/stars/reactor/reactor-core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reactor/reactor-core).
+
+* [failsafe](https://github.com/jhalterman/failsafe) 和guava-retry差不多，也是重试框架  [![GitHub stars](https://img.shields.io/github/stars/jhalterman/failsafe.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jhalterman/failsafe).
+
+* [jitsi](https://github.com/jitsi/jitsi) 语音视频通讯框架，SIP, XMPP/Jabber, IRC等等  [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jitsi/jitsi).
 
 ### 监控
 
 * [arthas](https://github.com/alibaba/arthas) 基于JVM的监控工具  [![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alibaba/arthas).
 
 * [graylog2-server](https://github.com/Graylog2/graylog2-server) Graylog日志监控系统 Graylog是一个开源的日志聚合、分析、审计、展现和预警工具。功能上和ELK类似,但又比ELK要简单,依靠着更加简洁,高效  [![GitHub stars](https://img.shields.io/github/stars/Graylog2/graylog2-server.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Graylog2/graylog2-server).
+
+* [GCViewer](https://github.com/chewiebug/GCViewer) JVM可视化分析工具  [![GitHub stars](https://img.shields.io/github/stars/chewiebug/GCViewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chewiebug/GCViewer).
 
 ### 安全
 
@@ -115,15 +128,21 @@
 
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式  [![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/iluwatar/java-design-patterns).
 
-* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路  [![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MisterBooo/LeetCodeAnimation).
-
-* [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) JAVA算法实现  [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/TheAlgorithms/Java).
-
 * [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) 中文好资源收集  [![GitHub stars](https://img.shields.io/github/stars/kon9chunkit/GitHub-Chinese-Top-Charts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts).
 
 * [vjtools](https://github.com/vipshop/vjtools) 唯品会收集的一些java资源  [![GitHub stars](https://img.shields.io/github/stars/vipshop/vjtools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vipshop/vjtools).
 
 * [useful-java-links](https://github.com/Vedenin/useful-java-links) 一些超有用的JAVA资源，强力推荐  [![GitHub stars](https://img.shields.io/github/stars/Vedenin/useful-java-links.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vedenin/useful-java-links).
+
+* [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) JAVA算法和数据结构实现  [![GitHub stars](https://img.shields.io/github/stars/java-algorithms-implementation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/phishman3579/java-algorithms-implementation).
+
+* [java-algorithms-implementation](https://github.com/sherxon/AlgoDS) JAVA算法实现  [![GitHub stars](https://img.shields.io/github/stars/sherxon/AlgoDS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sherxon/AlgoDS).
+
+### 算法和数据结构
+
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路  [![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MisterBooo/LeetCodeAnimation).
+
+* [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) JAVA算法实现  [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Java.svg?style=social&label=Star&maxAge=2592000)](https://github.com/TheAlgorithms/Java).
 
 * [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) JAVA算法和数据结构实现  [![GitHub stars](https://img.shields.io/github/stars/java-algorithms-implementation.svg?style=social&label=Star&maxAge=2592000)](https://github.com/phishman3579/java-algorithms-implementation).
 
@@ -144,6 +163,10 @@
 * [beam](https://github.com/apache/beam) 对spark,flink的统一抽象，可以隐藏不同流处理框架，统一接口 [![GitHub stars](https://img.shields.io/github/stars/apache/beam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/apache/beam).
 
 * [ksql](https://github.com/confluentinc/ksql) 一个基于kafka的数据库，可以根据kafka数据来构建schema [![GitHub stars](https://img.shields.io/github/stars/confluentinc/ksq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/confluentinc/ksql).
+
+### 区块链
+
+
 
 
 ### AI
