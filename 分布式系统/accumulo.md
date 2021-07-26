@@ -7,3 +7,12 @@ https://github.com/apache/accumulo
 java
 
 ### 存储方式
+
+
+
+### 分片机制
+
+
+
+
+### 分布式概述
